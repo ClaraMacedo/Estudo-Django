@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #228B22;
+    background-color: #A2CD5A;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -24,10 +24,22 @@ figure {
     margin-left: 40px;
 }
 
-h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+h2, h3, h4 {
+    font-family: SansSerif, cursive;
 }
 
+h1{
+    font-family: 'Lobster', cursive;
+}
+li{
+    font-size: x-large;
+    font-family: SansSerif;
+}
+
+a.link{
+    font-size: medium;
+    font-family: SansSerif;
+}
 .date {
     color: #828282;
 }
